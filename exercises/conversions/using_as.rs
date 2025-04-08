@@ -8,7 +8,7 @@
 // returns the proper type.
 //
 // Execute `rustlings hint using_as` or use the `hint` watch subcommand for a
-// hint.
+// hint. 
 
 
 fn average(values: &[f64]) -> f64 {
